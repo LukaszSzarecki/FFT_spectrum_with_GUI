@@ -8,10 +8,10 @@ In this repository I worked on basic FFT analyser, which plot FFT spectrum in ti
 * [Setup](#setup)
 
 ## General info
-
+The project involved writing a program that compares the performance of a built-in FFT function with its own implemented FFT function. 
 
 **System Parameters:**
- - Sampling frequency
+ - Sampling frequency: 44100 Hz (samples) and 8000 Hz (song)
  - sound = y (signal)
 
 
@@ -20,9 +20,6 @@ In this repository I worked on basic FFT analyser, which plot FFT spectrum in ti
 ![image](https://user-images.githubusercontent.com/61761700/154257850-83140ec6-2b14-46dc-aa5d-2801400d6045.png)
 
 > Source: Algorithms for programmers ideas and source code -  Jorg Arndt - 26, 2002
-
-**Model:**
-- 
 
 ## Technologies
 Project is created with:
